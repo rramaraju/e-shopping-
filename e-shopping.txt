@@ -1,1 +1,2 @@
+09/17 - Modifed by SV
 This is e-shopping demo file for git repository
