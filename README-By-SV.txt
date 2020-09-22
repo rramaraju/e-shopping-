@@ -1,3 +1,5 @@
+Modified - The current time is: 16:17:45.23
+
 README.txt
 $ echo 'My Project' > README
 C:\Users\SatishValluripalli>date
