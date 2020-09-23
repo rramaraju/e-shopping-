@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 Wednesday, September 23, 2020 6:52:22 PM
 
 git Branching - branching1.txt file created from origin master
+=======
+git Branching
+Wednesday, September 23, 2020 6:31:17 PM
+>>>>>>> b70825838d279a4ed86ff9c27da432dae4188e5b
